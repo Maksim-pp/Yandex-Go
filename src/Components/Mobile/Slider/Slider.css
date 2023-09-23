@@ -1,0 +1,44 @@
+.container {
+    width: 343px;
+    margin-left: -10px;
+}
+
+.slider {
+    overflow: hidden;
+}
+.slider-line {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    
+    position: relative;
+    left: 0;
+    transition: all ease 1s;
+}
+
+
+.btn-next {
+    cursor: pointer;
+    border: none;
+    border-radius: 50%;
+    position: absolute;
+    background-color: none;
+    left: 190px;
+    margin-top: 40px;
+    background-color: #FFFFFF;
+}
+
+.btn-prev {
+    cursor: pointer;
+    border: none;
+    border-radius: 50%;
+    margin-top: 40px;
+    left: 120px;
+    position: absolute;
+    background-color: #FFFFFF;
+}
+
+.img {
+    width: 143px;
+    height: 143px;
+}
