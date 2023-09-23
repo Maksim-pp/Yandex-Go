@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/Yandex-Go/static/css/main.3a0cae96.css",
+    "main.js": "/Yandex-Go/static/js/main.9cd05fcb.js",
+    "static/js/787.cf695f84.chunk.js": "/Yandex-Go/static/js/787.cf695f84.chunk.js",
+    "static/media/01.png": "/Yandex-Go/static/media/01.f0f3d2c987b704dd1c37.png",
+    "static/media/smkt0003 2.png": "/Yandex-Go/static/media/smkt0003 2.15348174001e3916a813.png",
+    "static/media/02.png": "/Yandex-Go/static/media/02.6b7efbf2edcd216ca5c6.png",
+    "static/media/05.png": "/Yandex-Go/static/media/05.b1ac936a26554bc4844e.png",
+    "static/media/06.png": "/Yandex-Go/static/media/06.c77e652d0a1864e07325.png",
+    "static/media/011.png": "/Yandex-Go/static/media/011.c6d615f965587ab4edbe.png",
+    "static/media/022.png": "/Yandex-Go/static/media/022.d793d480bd9040eb6be2.png",
+    "static/media/033.png": "/Yandex-Go/static/media/033.e1531d172b38f392d0d0.png",
+    "static/media/044.png": "/Yandex-Go/static/media/044.2f703f38adb4508f9718.png",
+    "static/media/Group 2087325533.png": "/Yandex-Go/static/media/Group 2087325533.1a207b8f4672f05bb260.png",
+    "static/media/smkt0010 6.png": "/Yandex-Go/static/media/smkt0010 6.bfb3696cb00c6240fcc0.png",
+    "static/media/cfee0015.png": "/Yandex-Go/static/media/cfee0015.bbcdad91f39619525153.png",
+    "static/media/smkt0008 2.png": "/Yandex-Go/static/media/smkt0008 2.add564ed9c99fe8357c9.png",
+    "static/media/cfee0016.png": "/Yandex-Go/static/media/cfee0016.0c637c57a6dfacc6555a.png",
+    "static/media/Group 2087325524.png": "/Yandex-Go/static/media/Group 2087325524.72724c94c14d1fb7568d.png",
+    "static/media/PLUS_010_0050.png": "/Yandex-Go/static/media/PLUS_010_0050.2be722fa8c45fc92b3ef.png",
+    "static/media/cfee0017.png": "/Yandex-Go/static/media/cfee0017.fd0efcc1b9ee4484a822.png",
+    "static/media/Group 2087325522.png": "/Yandex-Go/static/media/Group 2087325522.1893ca23c180ab6e5609.png",
+    "static/media/logo.svg": "/Yandex-Go/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Yandex-Go/index.html",
+    "main.3a0cae96.css.map": "/Yandex-Go/static/css/main.3a0cae96.css.map",
+    "main.9cd05fcb.js.map": "/Yandex-Go/static/js/main.9cd05fcb.js.map",
+    "787.cf695f84.chunk.js.map": "/Yandex-Go/static/js/787.cf695f84.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3a0cae96.css",
+    "static/js/main.9cd05fcb.js"
+  ]
+}
