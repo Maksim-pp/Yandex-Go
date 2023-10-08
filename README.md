@@ -4,6 +4,8 @@
 
 ## Используемые технологии
 
-1.HTML 2.CSS 3.React
+1.HTML
+2.CSS
+3.React
 
 ## https://maksim-pp.github.io/Yandex-Go/
